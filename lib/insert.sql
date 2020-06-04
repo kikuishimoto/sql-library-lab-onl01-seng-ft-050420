@@ -6,3 +6,5 @@ INSERT INTO characters (id, name, motto, species, author_id) VALUES (1, 'Harry',
 (4, 'Luna Lovegood', "I am a ghost OOoooOooOoo",'ghost', 1), (5, "Katniss", "I volunteer as tribute", "human", 2),
 (6, "Peta", "I love you Katniss", 'human', 2), (7, 'Primrose', 'No katniss!! No!!!','human', 2),
 (8, 'Gale', 'friend zone king','human', 2);
+INSERT INTO subgenres (id, name) VALUES (1, 'fantacy'), (2, 'dystopian');
+INSERT INTO authors(id, name) VALUES (1, 'J.K. Rowling'), (2, 'Suzanne Collins');
