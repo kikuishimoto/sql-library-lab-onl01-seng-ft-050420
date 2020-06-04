@@ -4,5 +4,5 @@ INSERT INTO books (id, title, year, series_id) VALUES (1, 'Prisoner of Azkaban',
 INSERT INTO characters (id, name, motto, species, author_id) VALUES (1, 'Harry', 'I do not have parents', 'wizard', 1),
 (2, "Voldemort", "I killed Harrys parents", 'wizard', 1),(3, "Draco", NULL, 'wizard', 1),
 (4, 'Luna Lovegood', "I am a ghost OOoooOooOoo",'ghost', 1), (5, "Katniss", "I volunteer as tribute", 2),
-(6, "Peta", "I love you Katniss", 2), (7, 'Primrose', 'No katniss!! No!!!', 2), 
+(6, "Peta", "I love you Katniss", 2), (7, 'Primrose', 'No katniss!! No!!!', 2),
 (8, 'Gale', 'friend zone king', 2);
